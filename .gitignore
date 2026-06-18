@@ -1,0 +1,4 @@
+venv/
+.env
+retrival.py
+__pycache__/
